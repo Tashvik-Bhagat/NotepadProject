@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="file/|format/|gui/|edit/|color/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/color"/>
+	<classpathentry kind="src" path="src/edit"/>
+	<classpathentry kind="src" path="src/file"/>
+	<classpathentry kind="src" path="src/format"/>
+	<classpathentry kind="src" path="src/gui"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
